@@ -19,3 +19,7 @@
 <p align="center">
   <a href="https://comicgothic.straw.page" style="text-decoration: underline;">straw page</a>
 </p>
+<!-- Right-aligned underlined link -->
+<p align="left">
+  <a href="https://crossgothic.atabook.org" style="text-decoration: underline;">Atabook</a>
+</p>
